@@ -13,6 +13,7 @@
 		5D08EE1E26C4F7F600EA7C2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D08EE1C26C4F7F600EA7C2D /* Main.storyboard */; };
 		5D08EE2026C4F7FB00EA7C2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D08EE1F26C4F7FB00EA7C2D /* Assets.xcassets */; };
 		5D08EE2326C4F7FC00EA7C2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D08EE2126C4F7FC00EA7C2D /* LaunchScreen.storyboard */; };
+		5D8BF67526C52F2000F7F85E /* ShowPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8BF67426C52F2000F7F85E /* ShowPasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5D08EE1F26C4F7FB00EA7C2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D08EE2226C4F7FC00EA7C2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D08EE2426C4F7FC00EA7C2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D8BF67426C52F2000F7F85E /* ShowPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowPasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				5D08EE1826C4F7F600EA7C2D /* SceneDelegate.swift */,
 				5D08EE1A26C4F7F600EA7C2D /* ViewController.swift */,
 				5D08EE1C26C4F7F600EA7C2D /* Main.storyboard */,
+				5D8BF67426C52F2000F7F85E /* ShowPasswordViewController.swift */,
 				5D08EE1F26C4F7FB00EA7C2D /* Assets.xcassets */,
 				5D08EE2126C4F7FC00EA7C2D /* LaunchScreen.storyboard */,
 				5D08EE2426C4F7FC00EA7C2D /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D8BF67526C52F2000F7F85E /* ShowPasswordViewController.swift in Sources */,
 				5D08EE1B26C4F7F600EA7C2D /* ViewController.swift in Sources */,
 				5D08EE1726C4F7F600EA7C2D /* AppDelegate.swift in Sources */,
 				5D08EE1926C4F7F600EA7C2D /* SceneDelegate.swift in Sources */,
